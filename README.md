@@ -9,7 +9,7 @@ The landing page focuses on presenting kitchen recipes/products using a clean an
 ## Project Scope
 - Static landing page
 - Basic responsive layout
-- Practicing HTML & CSS fundamentals
+- Practicing HTML & CSS
 
 ## Live Demo
 https://tarektiko.github.io/TAREKTIKO-SEF-Project2/
